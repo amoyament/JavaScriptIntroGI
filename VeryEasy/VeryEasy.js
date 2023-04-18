@@ -14,4 +14,5 @@ const differenceBetween = ageClayton - ageAubrey;
 console.log('The difference between', ageClayton, 'and', ageAubrey, 'is', differenceBetween);
 
 //After more research, I realized that I can console log the difference between numbers without defining difference between.
+
 console.log('The difference between', ageClayton, 'and', ageAubrey, 'is', ageClayton - ageAubrey);
