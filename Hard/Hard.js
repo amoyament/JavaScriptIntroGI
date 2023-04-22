@@ -25,6 +25,5 @@ console.log(multiply(3, 4));
 function divide(num1, num2){
     return num1 / num2;
 }
-
 //Console.log it to ensure it is working
 console.log(divide(10, 2));
