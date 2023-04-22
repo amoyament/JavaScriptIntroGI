@@ -1,7 +1,7 @@
 //VeryEasy: Create two variables and assign a number to each. 
 
-const ageClayton = 28;
-const ageAubrey = 27;
+let ageClayton = 28;
+let ageAubrey = 27;
 
 
 //Console log the difference between the numbers.
